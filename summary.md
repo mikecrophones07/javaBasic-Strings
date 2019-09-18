@@ -55,11 +55,17 @@ Questions
 -- TEST9 - should_calculate_checksum_of_a_string
 1. To learn how to create logic of checksum in a string. https://stackoverflow.com/questions/34124310/calculate-checksum-for-the-string
 2. It is failed when you first saw it and after changed with my own logic it failed since i have wrong logic for checking the sum of checksum. after searching ways how to do it, already got the correct answer and logic
-3. I corrected it because of logic issue , and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+3. I corrected it because of logic issue , and after change in my second try, it doesn't throw failed again.
 4. None
 
 -- TEST10 - should_convert_unicode_escape
 1. To learn how to initialize a character via unicode. https://stackoverflow.com/questions/5585919/creating-unicode-character-from-its-number
 2. It is failed when you first saw it and after changed with my understanding of unicode it failed because i dont know how to initialized unicode 
-3. I corrected it because of wrong initialization, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+3. I corrected it because of wrong initialization, and after change in my second try, it doesn't throw failed again.
+4. None
+
+-- TEST10 - should_reverse_a_string
+1. To learn how to reverse a string using predefined function of a property that we learned in the above test StringBuilder
+2. It is failed when you first saw it and after changed with my knowledged i learned from StringBuilder.reverse 
+3. I corrected the unchanged code, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
