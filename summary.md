@@ -71,7 +71,13 @@ Questions
 4. None
 
 -- TEST12 - should_compare_string_with_different_cases
-1. To learn how to differentiate equalsIgnoreCase and 
+1. To learn how to differentiate equalsIgnoreCase
 2. It is failed when you first saw it and after changed with my understanding about equalignorecase, it passed
+3. I corrected the unchanged code, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
+
+-- TEST13 - should_format_string
+1. To learn how to use format strings and apply learning from the previous test
+2. It is failed when you first saw it and after changed using string builder
 3. I corrected the unchanged code, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None

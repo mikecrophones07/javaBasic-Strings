@@ -219,7 +219,7 @@ class StringTest {
 
         // TODO: please modify the following code to pass the test
         // <--start
-        final String expectedText = null;
+        final String expectedText = new StringBuilder().append("Hello, ").append(name).append(". Next year, you will be ").append(age).append(".").toString();
         // --end-->
 
         assertEquals(expectedText, text);
