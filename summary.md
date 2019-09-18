@@ -46,3 +46,8 @@ Questions
 3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
 
+-- TEST8 - should_create_ascii_art
+1. To learn how to use String builder
+2. It is failed when you first saw it and after changed it to my desired output it passed since i know how to use String builder
+3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
