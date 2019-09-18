@@ -33,3 +33,10 @@ Questions
 2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since i use replace function to remove part of string
 3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
+
+-- TEST6 - should_taken_string_apart_continued
+1. To learn how split string into array of characters https://javarevisited.blogspot.com/2017/01/how-to-split-string-based-on-delimiter-in-java.html
+2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since i use String.split to separate each words in to array of characters
+3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
+
