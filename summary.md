@@ -21,3 +21,9 @@ Questions
 2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since my understanding is correct in += and address passing idea of strings
 3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
+
+-- TEST4 - should_taken_string_apart
+1. To learn how to apply the learning we learned in the above tests.
+2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since i use replace function to remove part of string
+3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
