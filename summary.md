@@ -64,8 +64,14 @@ Questions
 3. I corrected it because of wrong initialization, and after change in my second try, it doesn't throw failed again.
 4. None
 
--- TEST10 - should_reverse_a_string
+-- TEST11 - should_reverse_a_string
 1. To learn how to reverse a string using predefined function of a property that we learned in the above test StringBuilder
 2. It is failed when you first saw it and after changed with my knowledged i learned from StringBuilder.reverse 
+3. I corrected the unchanged code, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
+
+-- TEST12 - should_compare_string_with_different_cases
+1. To learn how to differentiate equalsIgnoreCase and 
+2. It is failed when you first saw it and after changed with my understanding about equalignorecase, it passed
 3. I corrected the unchanged code, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
