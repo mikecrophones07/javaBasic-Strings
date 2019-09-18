@@ -7,5 +7,11 @@ Questions
 -- TEST1 - should_be_immutable
 1. To learn what is the use of String.replace
 2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since my understanding is correct in String.replace function
-3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so no i didn't corrected my test at first try.
+3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
+4. None
+
+-- TEST2 - all_modification_method_will_create_new_string
+1. To learn what is the use of String.trim
+2. It is failed when you first saw it because Optional is empty and after changed it to my desired output it passed since my understanding is correct in String.trim function and string with spaces at the end
+3. I corrected it because optional is empty, and after change in my first try, it doesn't throw failed so i didn't corrected my test at first try.
 4. None
